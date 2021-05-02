@@ -42,7 +42,7 @@ PrimeraApp.propTypes = {
 };
 
 PrimeraApp.defaultProps = {
-  value: 0,
+  value: 10,
 };
 
 export default PrimeraApp;
